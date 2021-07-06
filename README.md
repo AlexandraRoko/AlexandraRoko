@@ -14,7 +14,8 @@ Over the past last year, I was focussing on Network Analysis, Natural Language P
 
 In two of my last projects I was 
 
-(1) researching how scientific concepts develop over time, focussing on Physics as a discipline, and 
+(1) researching how scientific concepts develop over time, focussing on Physics as a discipline, and              
+
 (2) analysing forbidden triads, creativity, and collaborative behaviour on GitHub from a gendered perspective. 
 The code can be found in the respective repositories below. 
 
