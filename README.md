@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+## About me
+
+
+## Course work
+
+
+
+## Projects
+
+
+
+## Reach me
+
 <!--
 **AlexandraRoko/AlexandraRoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
