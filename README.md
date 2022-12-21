@@ -4,7 +4,7 @@
 
 - :computer: I'm a trained Social Data Scientist (@Oxford) and have a background in Public Policy (@Berlin), Physics (@Heidelberg) and Geography (@Heidelberg), too. 
 - :school: I'm currently doing my [PhD studies](https://liu.se/en/employee/alero03) in _Computational Social Sciences/Analytical Sociology_ @Linköping Univeristy in Sweden.
-- :microscope: I'm interested in research topics within the Computational Social Sciences, Public Policy, Network Analysis and Natural Language Processing.  
+- :microscope: I'm interested in research topics within Computational Social Sciences, Public Policy, Network Analysis and Natural Language Processing.  
 
 ## Course work
 
